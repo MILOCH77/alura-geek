@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "VEGETA DRAGON BALL SUPER HERO ICHIBAN KUJI LETRA D BANDAI 100% ORIGINAL LACRADO",
+      "price": "400",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/317488529/46-glt35t29w8.png",
+      "id": 1
+    },
+    {
+      "name": "SON GOKU DRAGON BALL SUPER HERO ICHIBAN KUJI LETRA C BANDAI 100% ORIGINAL LACRADO",
+      "price": "420",
+      "image": "https://cdn.awsli.com.br/1946/1946743/produto/317488206/43-w03egylv9a.png",
+      "id": 2
+    },
+    {
+      "name": "SON GOKU KID DRAGON BALL SAMURAI BANPRESTO BANDAI 100% ORIGINAL COM CAIXA",
+      "price": "295",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/313054625/39-5j5wawwxwg.png",
+      "id": 3
+    },
+    {
+      "name": "NARUTO MODO KURAMA VIBRATION STARS 100% ORIGINAL COM CAIXA",
+      "price": "190",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/309033775/46-r8mjimtm3f.png",
+      "id": 4
+    },
+    {
+      "name": "UCHIHA SASUKE VIBRATION STARS BANPRESTO 100% ORIGINAL COM CAIXA",
+      "price": "190",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/309033771/58-teuww4k6tj.png",
+      "id": 5
+    },
+    {
+      "name": "UCHIHA ITACHI ANBU VIBRATION STARS 100% ORIGINAL COM CAIXA",
+      "price": "190",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/309034421/20-shcw8o9l9o.png",
+      "id": 6
+    },
+    {
+      "name": "MONKEY D. LUFFY ONE PIECE BANPRESTO 100% ORIGINAL SEM CAIXA",
+      "price": "321",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/313039918/67-dehwjuxt0q.png",
+      "id": 7
+    },
+    {
+      "name": "RIN TOHSAKA FATE EXTRA/LAST ENCORE TAITO 100% ORIGINAL SEM CAIXA",
+      "price": "190",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/305485397/27-y69xc6dmny.png",
+      "id": 8
+    },
+    {
+      "name": "DRAKEN TOKYO REVENGERS BREAK TIME BANPRESTO 100% ORIGINAL LACRADO",
+      "price": "220",
+      "image": "https://cdn.awsli.com.br/2500x2500/1946/1946743/produto/301618960/94-guh8rwdt0c.png",
+      "id": 9
+    }
+  ]
+}
